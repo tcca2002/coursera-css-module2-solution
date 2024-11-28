@@ -1,1 +1,44 @@
+body {
+    background-color: rgb(202, 202, 202)
+}
+
+#menu {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top:50px;
+    font-size: 150%;
+}
+
+.col {
+    background: rgb(199, 222, 135);
+    border: solid 1px;
+    padding: none;
+    margin:15px 0px 15px 0px;
+    height: 250px;
+
+  }
+
+  .row {
+    margin: none;
+    padding:none;
+    border:none;
+  }
+
+.row > div {
+}
+
+
+.sub-title {
+    border:1px solid blue;
+    margin:0px;
+    padding: 5px 25px 5px 25px;
+    background:yellow;
+    float:right;
+  }
+
+  .paragraph {
+    clear:right;
+  }
+
+  
 
